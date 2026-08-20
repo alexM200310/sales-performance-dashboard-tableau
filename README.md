@@ -1,4 +1,4 @@
-# Tableau Sales Dashboard
+# Sales Performance Dashboard Tableau
 
 An interactive Tableau dashboard analyzing sales performance, profitability, and product trends to identify growth drivers and underperforming categories.
 
