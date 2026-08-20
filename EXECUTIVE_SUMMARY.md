@@ -13,7 +13,7 @@ This project analyzes sales, profit, and quantity performance across product cat
 
 ## Methodology
 
-Sales data was loaded into Tableau and structured to support three KPI summary cards (Total Sales, Total Profit, Total Quantity), a subcategory-level sales-vs-profit comparison, and a weekly sales/profit trend view. All current-year figures are compared against the prior year across every view in the dashboard (see `tableau/Sales Dashboards.twbx`).
+Sales data was loaded into Tableau and structured to support three KPI summary cards (Total Sales, Total Profit, Total Quantity), a subcategory-level sales-vs-profit comparison, and a weekly sales/profit trend view. All current-year figures are compared against the prior year across every view in the dashboard (see `tableau/Sales Dashboards.twbx`). The live version is published to [Tableau Public](https://public.tableau.com/views/SalesCustomerDashboards_17870875614940/SalesDashboard?:language=en-US&publish=yes&:showVizHome=no) and includes a filter panel (Year, Category, Sub-Category, Region, State, City, and Min/Max range sliders for Sales, Profit, and Quantity) so the findings below can be re-sliced by any of those dimensions.
 
 ## Key Findings
 
